@@ -1,4 +1,4 @@
-# 📊 **Analisis Faktor Kecelakaan Lalu Lintas untuk Optimalisasi Keselamatan Pengguna Jalan** 📊
+# 📊 **Analisis Karakteristik dan Distribusi Bencana Di Kota Batu 2021-2023 📊
 **Sumber Data:** BPBD Kota Batu
 **Periode Data:** 2021-2023
 **Pemrosesan Data:** Data dikompilasi menjadi dataset gabungan yang mencakup kejadian bencana selama tiga tahun untuk mendukung analisis lanjutan.
